@@ -1,8 +1,8 @@
+```
 === Directories ===
 
 = bin/
     - where all built binaries are located
-    - you'll be using this directory a lot
     
 = data/
     - where data needed to run parts of the assignment are located
@@ -14,7 +14,6 @@
     
 = lib/
     - where static libraries are saved during the build process
-    - you should never need to manually do anything in this directory
     
 = src/
     - where all source code for botlab is located
@@ -35,3 +34,4 @@
     - a script for setting environment variables needed for running Vx applications
     - run this script before running botgui in a terminal on your laptop
     - run via `. setenv.sh` -- note the space
+```
